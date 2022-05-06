@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tw.ut.AnimalManagerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-03T02:59:25" hostname="HuifangdeMacBook-Pro.local" time="0.338">
+  <properties/>
+  <testcase name="should_store_elephant_to_fridge_when_fridge_is_not_full_using_dummy" classname="com.tw.ut.AnimalManagerTest" time="0.338"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
